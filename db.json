@@ -49,5 +49,23 @@
         "name": "Google",
         "description": "Google was founded by Larry Page and Sergey Brin while they were students at Stanford University. The company was officially launched in September, 1998 in a friend's garage. ... The official mission statement of the company is to “organize the world's information and make it universally accessible and useful"
       }
+    ],
+    "suspects":
+    [
+      {
+        "_id":1,
+        "susName":"Akhi M B",
+        "susNumber":"9447774476",
+        "susImei":"3249993249242",
+        "susInLogs":["1","2"],
+        "susPhoto":"",
+        "susAlias":"Kukku",
+        "susOccupation":"PE",
+        "susModusOperandi":"Knife",
+        "susCrimeHistory":"Theft",
+        "susTags":"Computer"
+      }
+     
+
     ]
   }
